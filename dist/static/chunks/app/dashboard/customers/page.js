@@ -8,9 +8,9 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/dashboard/customers/page"],{
 
-/***/ "(app-pages-browser)/./node_modules/.pnpm/next@14.2.15_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-20240704__rea_omgdhgs4fltqgmec4h2npq5i5m/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false!":
+/***/ "(app-pages-browser)/./node_modules/.pnpm/next@14.2.15_@opentelemetry+api@1.9.0_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc_r536hkvu3feptwbgew5i3lpqje/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false!":
 /*!***************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/.pnpm/next@14.2.15_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-20240704__rea_omgdhgs4fltqgmec4h2npq5i5m/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false! ***!
+  !*** ./node_modules/.pnpm/next@14.2.15_@opentelemetry+api@1.9.0_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc_r536hkvu3feptwbgew5i3lpqje/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false! ***!
   \***************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
@@ -21,7 +21,7 @@
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/.pnpm/next@14.2.15_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-20240704__rea_omgdhgs4fltqgmec4h2npq5i5m/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/.pnpm/next@14.2.15_@opentelemetry+api@1.9.0_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc_r536hkvu3feptwbgew5i3lpqje/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
